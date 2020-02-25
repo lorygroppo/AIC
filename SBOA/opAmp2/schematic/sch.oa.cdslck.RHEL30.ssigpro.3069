@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sun Feb 25 14:43:54 2018 CET
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/groppo.lorenzo/cadence/AIC2017/SBOA/opAmp2/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Sun Feb 25 14:45:01 2018 CET
+FilePathUsedToEditLock         /home/groppo.lorenzo/cadence/AIC2017/SBOA/opAmp2/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Feb 25 19:08:10 2018 CET
