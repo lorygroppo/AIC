@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      groppo.lorenzo
+HostName                       ssigpro
+ProcessIdentifier              8579
+ProcessCreationTime_UTC        1521017558
+ProcessCreationTime_Readable   Wed Mar 14 09:52:38 2018 CET
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/groppo.lorenzo/cadence/AIC2017/SBOA/opAmp3/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Mar 14 09:53:02 2018 CET
