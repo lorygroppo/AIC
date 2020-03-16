@@ -1,0 +1,100 @@
+[FIDOCAD]
+FJC C 1.5
+FJC B 0.5
+MC 115 40 0 0 ey_libraries.trnpmos1
+MC 95 40 0 1 ey_libraries.trnpmos1
+MC 55 75 0 1 ey_libraries.trnpmos1
+LI 90 35 90 30 0
+LI 85 30 120 30 0
+LI 120 30 120 35 0
+LI 100 40 110 40 0
+MC 115 65 0 0 ey_libraries.trnpmos1
+MC 95 65 0 1 ey_libraries.trnpmos1
+LI 90 60 90 45 0
+LI 100 65 110 65 0
+LI 90 50 65 50 0
+LI 120 60 120 45 0
+LI 120 55 65 55 0
+SA 90 50 0
+SA 120 55 0
+MC 115 85 0 0 ey_libraries.trnmos0
+MC 115 110 0 0 ey_libraries.trnmos0
+MC 95 85 0 1 ey_libraries.trnmos0
+MC 95 110 0 1 ey_libraries.trnmos0
+LI 90 70 90 80 0
+LI 90 90 90 105 0
+LI 90 115 90 120 0
+LI 85 120 120 120 0
+LI 120 120 120 115 0
+LI 120 105 120 90 0
+LI 120 80 120 70 0
+LI 110 85 100 85 0
+LI 110 110 100 110 0
+LI 120 95 60 95 0
+LI 90 100 65 100 0
+SA 120 95 0
+SA 90 100 0
+LI 90 50 100 50 0
+LI 100 50 100 40 0
+LI 90 100 100 100 0
+LI 100 100 100 110 0
+SA 100 40 0
+SA 100 110 0
+LI 100 85 100 65 0
+LI 90 75 100 75 0
+SA 100 65 0
+SA 100 75 0
+SA 90 75 0
+SA 100 85 0
+LI 120 75 130 75 0
+SA 120 75 0
+MC 35 75 0 0 ey_libraries.trnpmos1
+MC 70 75 0 1 ey_libraries.trnmos0
+MC 20 75 0 0 ey_libraries.trnmos0
+LI 75 75 60 75 0
+LI 20 75 30 75 0
+LI 40 70 40 65 0
+LI 40 65 50 65 0
+LI 50 65 50 70 0
+LI 25 80 25 85 0
+LI 25 85 65 85 0
+LI 65 85 65 80 0
+MC 50 110 0 1 ey_libraries.trnmos0
+MC 50 40 0 1 ey_libraries.trnpmos1
+MC 75 75 0 0 010
+MC 15 75 0 1 020
+LI 45 45 45 65 0
+LI 45 35 45 30 0
+LI 45 30 85 30 0
+LI 45 85 45 105 0
+LI 45 115 45 120 0
+LI 45 120 85 120 0
+LI 55 110 100 110 0
+LI 100 40 55 40 0
+LI 65 70 65 55 0
+LI 65 50 25 50 0
+LI 25 50 25 70 0
+LI 60 95 50 95 0
+LI 50 95 50 80 0
+LI 65 100 40 100 0
+LI 40 100 40 80 0
+SA 45 85 0
+SA 45 65 0
+MC 130 75 0 0 ey_libraries.refpnt2
+TY 35 37 3 3 0 0 0 Times++New++Roman M3a
+TY 79 24 3 3 0 0 0 Times++New++Roman Vdd
+TY 79 34 3 3 0 0 0 Times++New++Roman M10
+TY 122 34 3 3 0 0 0 Times++New++Roman M11
+TY 83 62 3 3 0 0 0 Times++New++Roman M8
+TY 121 62 3 3 0 0 0 Times++New++Roman M9
+TY 81 104 3 3 0 0 0 Times++New++Roman M4
+TY 122 104 3 3 0 0 0 Times++New++Roman M5
+TY 83 82 3 3 0 0 0 Times++New++Roman M6
+TY 121 82 3 3 0 0 0 Times++New++Roman M7
+TY 37 107 3 3 0 0 0 Times++New++Roman M3
+TY 16 64 3 3 0 0 0 Times++New++Roman M1
+TY 29 64 3 3 0 0 0 Times++New++Roman M1a
+TY 67 64 3 3 0 0 0 Times++New++Roman M2
+TY 52 64 3 3 0 0 0 Times++New++Roman M2a
+TY 78 120 3 3 0 0 0 Times++New++Roman Vss
+TY 130 68 3 3 0 0 0 Times++New++Roman Vo'
