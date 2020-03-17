@@ -1,0 +1,3 @@
+projectDir = '"~/cadence/simulation"
+designInfo = '("AICclass" "Cascode-sim" "schematic" "spectre")
+descriptionText = "None"
